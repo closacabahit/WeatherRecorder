@@ -1,0 +1,37 @@
+{
+    "2025-03-23": {
+        "temperature": 25.0,
+        "humidity": 78.0,
+        "dewpoint": 55.0,
+        "precipitation": 9.7,
+        "air_pressure": 10537.0
+    },
+    "2025-04-01": {
+        "temperature": 30.0,
+        "humidity": 65.0,
+        "dewpoint": 34.0,
+        "precipitation": 3.9,
+        "air_pressure": 18790.0
+    },
+    "2025-04-02": {
+        "temperature": 27.0,
+        "humidity": 81.0,
+        "dewpoint": 76.0,
+        "precipitation": 10.1,
+        "air_pressure": 10100.0
+    },
+    "2025-04-03": {
+        "temperature": 23.0,
+        "humidity": 56.0,
+        "dewpoint": 98.0,
+        "precipitation": 6.0,
+        "air_pressure": 10987.0
+    },
+    "2025-04-04": {
+        "temperature": 30.0,
+        "humidity": 83.0,
+        "dewpoint": 5.0,
+        "precipitation": 10.2,
+        "air_pressure": 10000.0
+    }
+}
