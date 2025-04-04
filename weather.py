@@ -1,4 +1,4 @@
-# (c) 2025 Full Name
+# (c) 2025 Kyla Closa and Feddy Cabahit
 # A program to parse and manage a JSON file.
 
 import os
